@@ -1,0 +1,19 @@
+
+r	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë„™øÿÿÿÿ8¯’Ø‹®1
+m	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í‡ÓÉ8°’Ø‹®1
+q	java:S116"URename this field "CourseCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ğ•Ô8¶’Ø‹®1
+l	java:S116"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¨„æ8¶’Ø‹®1
+v	java:S116"URename this field "Instructor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êé…¸şÿÿÿÿ8¶’Ø‹®1
+r	java:S116"VRename this field "MaxCapacity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¹â¼8¶’Ø‹®1
+{	java:S116	"ZRename this field "CurrentCapacity" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïõ§‡øÿÿÿÿ8¶’Ø‹®1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂƒÓÅÿÿÿÿÿ8¸’Ø‹®1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ´ú€8¹’Ø‹®1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›½ĞÏûÿÿÿÿ8¹’Ø‹®1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š Ã¡8¹’Ø‹®1
+j	java:S100!"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€•™ö8¹’Ø‹®1
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë„™øÿÿÿÿ8¹’Ø‹®1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(Ä»º®ùÿÿÿÿ8»’Ø‹®1
+^
+java:S1126>"AReplace this if-then-else statement by a single return statement.(Àé˜8¼’Ø‹®1
+V
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ8•ƒÙ‹®1

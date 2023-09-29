@@ -1,0 +1,42 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÀÏêşÿÿÿÿ8áıŒ®1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò¢Ûûøÿÿÿÿ8áıŒ®1
+r	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ˜ÛÅşÿÿÿÿ8áıŒ®1
+r	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¸ÓĞúÿÿÿÿ8áıŒ®1
+m	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŞ§¨8áıŒ®1
+z
+java:S1104"XMake studentslist a static final constant or non-public and provide accessors if needed.(¼¦¹ÿúÿÿÿÿ8áıŒ®1
+t
+java:S1104"WMake coursesList a static final constant or non-public and provide accessors if needed.(Ò·ß8âıŒ®1
+T
+java:S1444"2Make this "public static studentslist" field final(¼¦¹ÿúÿÿÿÿ8âıŒ®1
+N
+java:S1444"1Make this "public static coursesList" field final(Ò·ß8âıŒ®1
+f
+java:S2583G"DChange this condition so that it does not always evaluate to "false"(àºäşÿÿÿÿ8öıŒ®1
+?
+java:S2386"Make this member "protected".(¼¦¹ÿúÿÿÿÿ8÷ıŒ®1
+:
+java:S2386"Make this member "protected".(Ò·ß8÷ıŒ®1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ÊÊñùÿÿÿÿ8ûıŒ®1
+j	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ½”È8ûıŒ®1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¡šôš8ııŒ®1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à“·ƒùÿÿÿÿ8ııŒ®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œÆ®¶ùÿÿÿÿ8şıŒ®1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÀÀÏêşÿÿÿÿ8ÿıŒ®1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(°ãÊ›şÿÿÿÿ8şŒ®1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(‡ß–ìúÿÿÿÿ8…şŒ®1
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(‰ŒãÇøÿÿÿÿ8…şŒ®1
+o	java:S1009"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ä¼´øÿÿÿÿ8…şŒ®1
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(€ºö¤8ˆşŒ®1
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(‰ŒãÇøÿÿÿÿ8ˆşŒ®1
+o	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¸ÓĞúÿÿÿÿ8ˆşŒ®1
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(¶Ÿßˆùÿÿÿÿ8‰şŒ®1
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(è—ÕÕÿÿÿÿÿ8‰şŒ®1
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(˜ú»ƒ8ŠşŒ®1
+j	java:S100a"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îŞ§¨8ŠşŒ®1
+T	java:S106c"9Replace this use of System.out or System.err by a logger.(øëË8‹şŒ®1
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(°ŸÊûüÿÿÿÿ8‹şŒ®1
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(Æ“£æ8‹şŒ®1
+j	java:S100s"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¡õ8‹şŒ®1

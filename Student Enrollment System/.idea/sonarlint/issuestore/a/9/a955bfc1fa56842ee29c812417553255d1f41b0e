@@ -1,0 +1,20 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÒöÖ­8¼Îù‹®1
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Û„ƒÿÿÿÿÿ8½Îù‹®1
+{
+java:S1104	"^Make ListStudentcourses a static final constant or non-public and provide accessors if needed.(ñª³œ8½Îù‹®1
+p	java:S116"TRename this field "StudentId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©×°8ÃÎù‹®1
+p	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ8ÅÎù‹®1
+l	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚8ÅÎù‹®1
+y	java:S116	"]Rename this field "ListStudentcourses" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñª³œ8ÅÎù‹®1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÍõ‰8ÈÎù‹®1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¶Ğ§øÿÿÿÿ8ÈÎù‹®1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş€†ä8ÈÎù‹®1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è™íéúÿÿÿÿ8ÈÎù‹®1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¦–³Øüÿÿÿÿ8ÉÎù‹®1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ÄÀ¾éøÿÿÿÿ8ÊÎù‹®1
+>
+java:S1116*"Remove this empty statement.(ôŸìúÿÿÿÿ8ËÎù‹®1
+c
+java:S11264"AReplace this if-then-else statement by a single return statement.(®¥Ìêøÿÿÿÿ8ÌÎù‹®1
